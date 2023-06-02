@@ -1,0 +1,17 @@
+c:\users\patri\onedrive\documents\visual studio 2017\Projects\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.exe.config
+c:\users\patri\onedrive\documents\visual studio 2017\Projects\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.exe
+c:\users\patri\onedrive\documents\visual studio 2017\Projects\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.pdb
+c:\users\patri\onedrive\documents\visual studio 2017\Projects\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.exe
+c:\users\patri\onedrive\documents\visual studio 2017\Projects\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.exe.config
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.exe.config
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\bin\Release\SPL to EMF.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\SPL to EMF\4.2\Source\SPL to EMF\SPL to EMF\obj\Release\SPL to EMF.pdb
